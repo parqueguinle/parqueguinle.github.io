@@ -1,0 +1,298 @@
+.header
+{
+    background-color: #ffffff;
+    margin-bottom: 3%;
+}
+
+.logo
+{
+    width: auto;
+    height: auto;
+    padding-left: 30px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+
+.col{
+    padding-right: 5px;
+}
+
+
+.links
+{
+    margin-top: 2vw;
+    padding-right: 2%;
+}
+
+.link
+{
+    font-family: 'Amatic SC', serif;
+    color: #000000;
+    font-size: 5.0vw;
+    margin: 5px;
+    font-weight: 600;
+}
+
+.fotoBanda
+{
+    margin-top: 10%;
+    margin-left: 10%;
+    width: 90%;
+    border-radius: 20px;
+}
+
+.carrosel{
+    float: left;
+    margin-top: 3%;
+    padding-left: 4%;
+}
+
+.indicadoresCarrocel{
+    margin-bottom: 0rem;
+}
+
+.imgCarrocel{
+    border-radius: 10%;
+}
+
+.carousel-caption{
+    padding-bottom: 0.1rem;
+}
+
+.lblCarrocel{
+    margin-bottom: 0.1rem;
+}
+
+.txtCarrocel{
+    margin-bottom: 0.1rem;
+}
+
+.textoBanda{
+    margin-top: 10%;
+    padding-right: 5%;
+    font-family: 'Amatic SC';
+    font-weight: 1000;
+    /*font-family: 'Modak';*/
+    font-size: 2.7vw;
+    letter-spacing: 2px;
+    text-align: center;
+    color: #442d03;
+}
+
+/*
+.rounded {
+    border-radius: 3.25rem!important;
+}
+*/
+
+.footer{
+    background-color: #442d03;
+    margin-top: 5%;
+    height: 15vw;
+}
+/*
+.instagram{
+    margin-top: 3vw;
+    height: 10vw;
+    width: 10vw;
+    float: right;
+    margin-right: 3%;
+}
+*/
+.facebook{
+    margin-top: 3vw;
+    float: right;
+    margin-right: 3%;
+    height: 10vw;
+    width: 10vw;
+}
+/*
+.spotify{
+    margin-top: 3vw;
+    float: right;
+    margin-right: 2%;
+    height: 10vw;
+    width: 10vw;
+}
+*/
+.copyright{
+    color: white;
+    font-size: 5vw;
+    margin-top: 6vw;
+    margin-left: 3vw;
+    font-family: 'Amatic SC';
+    /*font-family: 'Modak';*/
+}
+
+body
+{
+    background-color: #99ff8b;
+}
+
+/*conteudo*/
+
+.tituloCont{
+    color: #442d03;
+    font-size: 5vw;
+    font-weight: 800;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    float: left;
+    margin-left: 5%;
+    padding-right: 13%;
+    font-family: 'Amatic SC';
+    /*font-family: 'Modak';*/
+    text-align: center;
+}
+
+.figuraCont1{
+    padding-left: 3rem;
+    padding-right: 3rem;
+}
+
+.textoCont1{
+    margin-top: 1rem;
+    font-weight: 300;
+    padding-right: 5rem;
+    padding-left: 1rem;
+    font-size: 1rem;
+    font-family: 'Quicksand';
+}
+
+/*
+
+.figuraCont2{
+    padding-right: 3rem;
+}
+*/
+
+.textoCont2{
+    margin-top: 1rem;
+    font-weight: 300;
+    padding-left: 5rem;
+    padding-right: 1rem;
+    font-size: 1rem;
+    font-family: 'Quicksand';
+}
+
+
+.videos{
+    width: 80vw;
+    height: 50vw;
+    margin-left: 10vw;
+    margin-top: 3vh;
+}
+
+/*fale conosco*/
+
+.faleConosco{
+    color: #442d03;
+    font-size: xx-large;
+    font-family: 'Amatic SC';
+    /*font-family: 'Modak';*/
+}
+
+.form{
+    max-width: 100%;
+}
+
+/*
+.map-container-2{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    margin-left: 10%;
+    height:0;
+    }
+
+.map-container-2 iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+*/
+
+.mapa{
+    padding-left: 10%;
+}
+
+/*mapa*/
+.tituloMapa{
+    color: #442d03;
+    font-size: 2rem;
+    font-weight: 800;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    float: left;
+    /* margin-left: 5%; */
+    /* padding-right: 13%; */
+    font-family: 'Amatic SC';
+    text-align: center;
+}
+
+/*em breve*/
+.emBreve{
+    margin:15%;
+    width: 70vw;
+    height: 50vw;
+}
+
+
+/*gallery começo*/
+
+.gallery-title
+{
+    font-size: 36px;
+    color: #42B32F;
+    text-align: center;
+    font-weight: 500;
+    margin-bottom: 70px;
+}
+.gallery-title:after {
+    content: "";
+    position: absolute;
+    width: 7.5%;
+    left: 46.5%;
+    height: 45px;
+    border-bottom: 1px solid #5e5e5e;
+}
+.filter-button
+{
+    font-size: 18px;
+    border: 1px solid #42B32F;
+    border-radius: 5px;
+    text-align: center;
+    color: #42B32F;
+    margin-bottom: 30px;
+
+}
+.filter-button:hover
+{
+    font-size: 18px;
+    border: 1px solid #42B32F;
+    border-radius: 5px;
+    text-align: center;
+    color: #ffffff;
+    background-color: #42B32F;
+
+}
+.btn-default:active .filter-button:active
+{
+    background-color: #42B32F;
+    color: white;
+}
+
+.port-image
+{
+    width: 100%;
+}
+
+.gallery_product
+{
+    margin-bottom: 30px;
+}
+
+/*gallery fim*/
